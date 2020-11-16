@@ -4,7 +4,7 @@ The implementation of a fully connected NN with pure numpy.
 
 ## Introduction
 
-A simple MLP is developed purely based on numpy. At this time, some components for a neural network is included, and others are still in developing. What has been done is as follows:
+A simple MLP is developed purely based on numpy. At this time, some components for a neural network is included, and others are still in developing. What has been done are as follows:
 
 * Relu and sigmoid activation.
 * Cross entropy loss.
