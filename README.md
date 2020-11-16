@@ -2,6 +2,15 @@
 
 The implementation of a fully connected NN with pure numpy.
 
+## Introduction
+
+A simple MLP is developed purely based on numpy. At this time, some components for a neural network is included, and others are still in developing. What has been done is as follows:
+
+* Relu and sigmoid activation.
+* Cross entropy loss.
+* Xavier and MSRA initializations.
+* Mini-batch gradient descent.
+
 ## Example
 Start with a multi-class classification problem. Use MNIST dataset(60000 train samples and 10000 test samples) as an example. 
 
